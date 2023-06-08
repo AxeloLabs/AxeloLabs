@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Axel
 - 👀 I’m am looking for a job: https://www.linkedin.com/in/regnou/
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a full-stack expert, more front-end oriented
+- 💞️ I’m looking to use SVELTEKIT !
+- 📫 How to reach me ... (via linkedin)
 
 <!---
 nzaero/nzaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
