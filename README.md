@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel
 - 👀 I’m am looking for a job: https://www.linkedin.com/in/regnou/
-- 🌱 I’m currently a full-stack expert, more front-end oriented
+- 🌱 I’m currently a full-stack web expert (more front-end oriented)
 - 💞️ I’m looking to use SVELTEKIT !
 - 📫 How to reach me ... (via linkedin)
 
