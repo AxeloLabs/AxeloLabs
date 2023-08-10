@@ -20,7 +20,7 @@
   <img
     width="64"
     alt="Follow me on LinkedIn"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/8-doc/icon/LinkedIn.png"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/LinkedIn.png"
   />LinkedIn</a>
 &nbsp;
 <br/>
@@ -29,7 +29,7 @@
   <img
     width="64"
     alt="Follow me on Twitter"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/8-doc/icon/Twitter.png"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
   />Twitter</a>
 &nbsp;
 <br/>
@@ -38,7 +38,7 @@
   <img
     width="64"
     alt="Follow me on YouTube"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/8-doc/icon/Youtube.png"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
   />YouTube</a>
 
 <!---
