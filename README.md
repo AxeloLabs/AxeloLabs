@@ -2,8 +2,8 @@
 
 - 👀 I’m am looking for a job !
 - 🌱 I’m currently a full-stack web expert (more front-end oriented)
-- 💞️ Visit my portfolio and ecom site (links below)
-- 📫 How to reach me ... (contact me via linkedin)
+- 💞️ Visit my portfolio and my ecom site (links below)
+- 📫 How to reach me ... (please, contact me via linkedin)
 
 ## 🔗 Links
 
