@@ -11,7 +11,7 @@
   <img
     width="64"
     alt="Visit my Site"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/8-doc/icon/WebAgency.png"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/WebAgency.png"
   />My Site</a>
 &nbsp;
 <br/>
@@ -40,7 +40,6 @@
     alt="Follow me on YouTube"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
   />YouTube</a>
-
 <!---
 nzaero/nzaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
