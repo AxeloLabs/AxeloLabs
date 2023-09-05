@@ -11,16 +11,16 @@
     width="64"
     alt="Visit my Site"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/WebAgency.png"
-  />My Site</a>
+  />My Site - web-agency.app</a>
 &nbsp;
 <br/>
 
-<a href="https://www.linkedin.com/in/regnou/" title="Follow me on LinkedIn">
+<a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
   <img
     width="64"
     alt="Follow me on LinkedIn"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/LinkedIn.png"
-  />LinkedIn</a>
+  />LinkedIn - regnou</a>
 &nbsp;
 <br/>
 
@@ -29,7 +29,7 @@
     width="64"
     alt="Follow me on Twitter"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
-  />Twitter</a>
+  />Twitter - nzaerox</a>
 &nbsp;
 <br/>
 
@@ -38,7 +38,13 @@
     width="64"
     alt="Follow me on YouTube"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
-  />YouTube</a>
+  />YouTube - @webagencyapp</a>
+
+<a href="https://github.com/AxeloLabs" title="">
+GitHub - AxeloLabs</a>
+
+
+  
 <!---
 nzaero/nzaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
