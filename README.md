@@ -39,9 +39,13 @@
     alt="Follow me on YouTube"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
   />YouTube - @webagencyapp</a>
+&nbsp;
+<br/>
 
 <a href="https://github.com/AxeloLabs" title="">
 GitHub - AxeloLabs</a>
+&nbsp;
+<br/>
 
 
   
