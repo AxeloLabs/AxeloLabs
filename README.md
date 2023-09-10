@@ -44,8 +44,7 @@
 </div>
 <br/>
 <a href="https://github.com/AxeloLabs" title="">
-GitHub - AxeloLabs</a>
-&nbsp;
+  • AxeloLabs [GitHub]</a>
 <br/>
 
 ## 🔗 Skills
