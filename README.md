@@ -28,32 +28,18 @@
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
   />
 
+<!-- &nbsp; -->
+
 <div class='flex'>
 <a href="https://www.web-agency.app" title="Visit my Site">
-  
   My Site - web-agency.app</a>
-&nbsp;
-<br/>
-
 <a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
   LinkedIn - regnou</a>
-&nbsp;
-<br/>
-
 <a href="https://twitter.com/nzaerox" title="Follow me on Twitter">
   Twitter - nzaerox</a>
-&nbsp;
-<br/>
-
 <a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
   YouTube - @webagencyapp</a>
-&nbsp;
-<br/>
-
 </div>
-
-<br/>
-<br/>
 
 <a href="https://github.com/AxeloLabs" title="">
 GitHub - AxeloLabs</a>
