@@ -52,9 +52,9 @@ I have a web agency and I build website for different business. You can visit my
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,bootstrap,gulp)](https://skillicons.dev) -->
 
-[![lang](https://skillicons.dev/icons?perline=10&i=js,react,next,aws,sass,redux,graphql,mongodb,nodejs,express)](https://skillicons.dev)
+<!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,react,next,aws,sass,redux,graphql,mongodb,nodejs,express)](https://skillicons.dev) -->
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,wordpress)](https://skillicons.dev) -->
+[![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,wordpress,mysql)](https://skillicons.dev)
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,postgresql,jenkins,ansible)](https://skillicons.dev) -->
 
