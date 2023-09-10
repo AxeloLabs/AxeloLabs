@@ -4,11 +4,7 @@
 - 💞️ Visit my portfolio and my ecom site (links below)
 - 📫 How to reach me ... (please, contact me via linkedin)
 
-  <img
-
-  alt="Skills"
-  src="https://github.com/AxeloLabs/cosmos3--unix-dev-conf/blob/main/__DOC__/1-img/logos.svg"
-  />
+  ![list of tools and technologies I work with](https://skillicons.dev/icons?perline=9&i=ts,svelte,html,sass,css,js,nodejs,vscode,vite,git,md,svg,postgres,mongodb,graphql,github,figma,heroku,cloudflare")
 
 ## 🔗 Links
 
@@ -55,8 +51,6 @@ GitHub - AxeloLabs</a>
 &nbsp;
 <br/>
 
-
-  
 <!---
 nzaero/nzaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
