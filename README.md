@@ -6,7 +6,7 @@
 
 ## 🔗 Links
 
-<img
+<!-- <img
     width="64"
     alt="Visit my Site"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/WebAgency.png"
@@ -25,7 +25,7 @@
     width="64"
     alt="Follow me on YouTube"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
-  />
+  /> -->
 
 <!-- &nbsp; -->
 
