@@ -32,14 +32,17 @@
 <div class='grid'>
 <a href="https://www.web-agency.app" title="Visit my Site">
   My Site - web-agency.app</a>
+  <br/>
 <a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
   LinkedIn - regnou</a>
+  <br/>
 <a href="https://twitter.com/nzaerox" title="Follow me on Twitter">
   Twitter - nzaerox</a>
+  <br/>
 <a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
   YouTube - @webagencyapp</a>
 </div>
-
+<br/>
 <a href="https://github.com/AxeloLabs" title="">
 GitHub - AxeloLabs</a>
 &nbsp;
