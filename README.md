@@ -6,7 +6,7 @@ Over the last few years I fell in love with Svelte and TypeScript.
 
 I have a web agency and I build website for different business. You can visit my portfolio to see most of my work. Do not hesitate to contact me (via linkedin).
 
-## 🔗 Profil
+## 🔗 Profile
 
 <!-- <img
     width="64"
