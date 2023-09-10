@@ -29,7 +29,7 @@
 
 <!-- &nbsp; -->
 
-<div class='flex'>
+<div class=''>
 <a href="https://www.web-agency.app" title="Visit my Site">
   My Site - web-agency.app</a>
 <a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
