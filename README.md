@@ -50,6 +50,10 @@ I have a web agency and I build website for different business. You can visit my
 
 ## 🔗 Skills
 
+<!-- axelo -->
+
+[![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,svelte,nextjs,react,gcp,vercel,firebase,supabase,graphql,materialui,tailwind,sass,vite,git,githubactions,figma,gitlab,wordpress,jest)](https://skillicons.dev)
+
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,bootstrap,gulp)](https://skillicons.dev) -->
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,react,next,aws,sass,redux,graphql,mongodb,nodejs,express)](https://skillicons.dev) -->
@@ -63,8 +67,6 @@ I have a web agency and I build website for different business. You can visit my
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,mysql)](https://skillicons.dev) -->
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,gcp,firebase)](https://skillicons.dev) -->
-
-[![lang](https://skillicons.dev/icons?perline=10&i=ts,js,svelte,nextjs,react,ts,js,html,css,java,gcp,vercel,firebase,supabase,graphql,materialui,tailwind,sass,vite,git,githubactions,figma,gitlab,wordpress,jest)](https://skillicons.dev)
 
 <!-- ms -->
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,html,css,gcp,firebase)](https://skillicons.dev) -->
