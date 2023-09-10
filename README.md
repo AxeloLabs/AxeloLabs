@@ -4,6 +4,12 @@
 - 💞️ Visit my portfolio and my ecom site (links below)
 - 📫 How to reach me ... (please, contact me via linkedin)
 
+  <img
+
+  alt="Skills"
+  src="https://github.com/AxeloLabs/cosmos3--unix-dev-conf/blob/main/__DOC__/1-img/logos.svg"
+  />
+
 ## 🔗 Links
 
 <a href="https://www.web-agency.app" title="Visit my Site">
