@@ -4,7 +4,7 @@
 - 💞️ Visit my portfolio and my ecom site (links below)
 - 📫 How to reach me ... (please, contact me via linkedin)
 
-  ![list of tools and technologies I work with](https://skillicons.dev/icons?perline=9&i=ts,svelte,html,sass,css,js,nodejs,vscode,vite,git,md,svg,postgres,mongodb,graphql,github,figma,heroku,cloudflare")
+  ![list of tools and technologies I work with](https://skillicons.dev/icons?perline=9&i=ts,js,svelte,gcp, firebase,vercel,supabase,html,css,tailwind,sass,bootstrap,md,svg,lit,materialui,nodejs,nextjs,react,java,spring,docker,vite,git,jenkins,postgres,mongodb,sqlite,graphql,githubactions,figma,gitlab,gulp,jest,wordpress")
 
 ## 🔗 Links
 
