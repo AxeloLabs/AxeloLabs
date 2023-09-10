@@ -6,7 +6,7 @@ Over the last few years I fell in love with Svelte and TypeScript.
 
 I have a web agency and I build website for different business. You can visit my portfolio to see most of my work. Do not hesitate to contact me (via linkedin).
 
-## 🔗 Links
+## 🔗 Profil
 
 <!-- <img
     width="64"
@@ -50,6 +50,9 @@ I have a web agency and I build website for different business. You can visit my
 
 ## 🔗 Skills
 
+[![lang](https://skillicons.dev/icons?perline=10&i=svelte,nextjs,react,ts,js,html,css,java,gcp,vercel,firebase,supabase,postgres,mongodb,sqlite,nodejs,express,spring,graphql,bootstrap,md,svg,lit,materialui,tailwind,sass,docker,vite,git,jenkins,githubactions,figma,gitlab,gulp,wordpress,jest)](https://skillicons.dev)
+
+<!--
 ###### LANGUAGES
 
 [![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,java)](https://skillicons.dev)
@@ -88,4 +91,4 @@ I have a web agency and I build website for different business. You can visit my
 
 ###### TESTS
 
-[![lang](https://skillicons.dev/icons?perline=10&i=jest)](https://skillicons.dev)
+[![lang](https://skillicons.dev/icons?perline=10&i=jest)](https://skillicons.dev) -->
