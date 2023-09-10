@@ -1,8 +1,10 @@
-# Hey friends! 👋
+# Hey there! 👋
 
-- 🌱 I’m currently a full-stack web expert (more front-end oriented)
-- 💞️ Visit my portfolio and my ecom site (links below)
-- 📫 How to reach me ... (please, contact me via linkedin)
+I'm Axel. A passionate webdeveloper.
+
+Over the last few years I fell in love with Svelte and TypeScript.
+
+I have a web agency and I build website for different business. You can visit my portfolio to see most of my work. Do not hesitate to contact me (via linkedin).
 
 ## 🔗 Links
 
