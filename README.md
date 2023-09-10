@@ -56,9 +56,11 @@ I have a web agency and I build website for different business. You can visit my
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,wordpress,mysql)](https://skillicons.dev) -->
 
-[![lang](https://skillicons.dev/icons?perline=10&i=java,spring,maven,mysql)](https://skillicons.dev)
+<!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,spring,maven,mysql)](https://skillicons.dev)
 
-[![lang](https://skillicons.dev/icons?perline=10&i=java,postgresql,jenkins,ansible,nginx)](https://skillicons.dev)
+[![lang](https://skillicons.dev/icons?perline=10&i=java,postgresql,jenkins,ansible,nginx)](https://skillicons.dev) -->
+
+[![lang](https://skillicons.dev/icons?perline=10&i=java,mysql)](https://skillicons.dev)
 
 [![lang](https://skillicons.dev/icons?perline=10&i=svelte,nextjs,react,ts,js,html,css,java,gcp,vercel,firebase,supabase,postgres,mongodb,sqlite,nodejs,express,spring,graphql,bootstrap,md,svg,lit,materialui,tailwind,sass,docker,vite,git,jenkins,githubactions,figma,gitlab,gulp,wordpress,jest)](https://skillicons.dev)
 
