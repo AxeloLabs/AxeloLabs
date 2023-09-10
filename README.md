@@ -52,7 +52,7 @@ I have a web agency and I build website for different business. You can visit my
 
 <!-- axelo -->
 
-[![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,svelte,nextjs,react,gcp,vercel,firebase,supabase,graphql,materialui,tailwind,sass,vite,git,githubactions,figma,gitlab,wordpress,jest)](https://skillicons.dev)
+<!-- [![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,svelte,nextjs,react,gcp,vercel,firebase,supabase,graphql,materialui,tailwind,sass,vite,git,githubactions,figma,gitlab,wordpress,jest)](https://skillicons.dev) -->
 
 <!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,bootstrap,gulp)](https://skillicons.dev) -->
 
