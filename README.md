@@ -6,40 +6,47 @@
 
 ## 🔗 Links
 
-<div class='flex'>
-<a href="https://www.web-agency.app" title="Visit my Site">
-  <img
+<img
     width="64"
     alt="Visit my Site"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/WebAgency.png"
-  />My Site - web-agency.app</a>
+  />
+<img
+    width="64"
+    alt="Follow me on LinkedIn"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/LinkedIn.png"
+  />
+<img
+    width="64"
+    alt="Follow me on Twitter"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
+  />
+
+<img
+    width="64"
+    alt="Follow me on YouTube"
+    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
+  />
+
+<div class='flex'>
+<a href="https://www.web-agency.app" title="Visit my Site">
+  
+  My Site - web-agency.app</a>
 &nbsp;
 <br/>
 
 <a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
-  <img
-    width="64"
-    alt="Follow me on LinkedIn"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/LinkedIn.png"
-  />LinkedIn - regnou</a>
+  LinkedIn - regnou</a>
 &nbsp;
 <br/>
 
 <a href="https://twitter.com/nzaerox" title="Follow me on Twitter">
-  <img
-    width="64"
-    alt="Follow me on Twitter"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
-  />Twitter - nzaerox</a>
+  Twitter - nzaerox</a>
 &nbsp;
 <br/>
 
 <a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
-  <img
-    width="64"
-    alt="Follow me on YouTube"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
-  />YouTube - @webagencyapp</a>
+  YouTube - @webagencyapp</a>
 &nbsp;
 <br/>
 
