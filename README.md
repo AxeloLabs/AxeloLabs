@@ -31,16 +31,16 @@
 
 <div class='grid'>
 <a href="https://www.web-agency.app" title="Visit my Site">
-  • My Site - web-agency.app</a>
+  • web-agency.app [My Site]</a>
   <br/>
 <a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
-  • LinkedIn - regnou</a>
+  • regnou [LinkedIn]</a>
   <br/>
 <a href="https://twitter.com/nzaerox" title="Follow me on Twitter">
-  • Twitter - nzaerox</a>
+  • nzaerox [Twitter]</a>
   <br/>
 <a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
-  • YouTube - @webagencyapp</a>
+  • @webagencyapp [YouTube]</a>
 </div>
 <br/>
 <a href="https://github.com/AxeloLabs" title="">
