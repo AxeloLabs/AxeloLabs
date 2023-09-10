@@ -42,7 +42,6 @@
 <a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
   • @webagencyapp [YouTube]</a>
 </div>
-<br/>
 <a href="https://github.com/AxeloLabs" title="">
   • AxeloLabs [GitHub]</a>
 <br/>
