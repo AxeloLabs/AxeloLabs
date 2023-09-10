@@ -21,7 +21,6 @@
     alt="Follow me on Twitter"
     src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
   />
-
 <img
     width="64"
     alt="Follow me on YouTube"
