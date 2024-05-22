@@ -6,7 +6,7 @@ I have a web agency and I build websites for different business.
 <br>
 You can visit my portfolio to see most of my work: <a href='https://www.web-agency.app'>www.web-agency.app</a>
 <br>
-Do not hesitate to contact me:  <a href='https://www.web-agency.app/contact'>CONTACT ME</a>
+Do not hesitate to contact me:  <a href='https://wa.framer.website/contact'>CONTACT ME</a>
 <!-- 
 ## 🔗 Profile
  -->
