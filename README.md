@@ -2,9 +2,11 @@
 
 I'm Axel. A passionate webdeveloper.
 
-Over the last few years I fell in love with Svelte and TypeScript.
-
-I have a web agency and I build website for different business. You can visit my portfolio to see most of my work. Do not hesitate to contact me (via linkedin).
+I have a web agency and I build websites for different business.
+<br>
+You can visit my portfolio to see most of my work: <a href='www.web-agency.app'>www.web-agency.app</a>
+<br>
+Do not hesitate to contact me:  <a href='www.web-agency.app/contact'>CONTACT ME</a>
 <!-- 
 ## 🔗 Profile
  -->
