@@ -5,9 +5,9 @@ I'm Axel. A passionate webdeveloper.
 Over the last few years I fell in love with Svelte and TypeScript.
 
 I have a web agency and I build website for different business. You can visit my portfolio to see most of my work. Do not hesitate to contact me (via linkedin).
-
+<!-- 
 ## 🔗 Profile
-
+ -->
 <!-- <img
     width="64"
     alt="Visit my Site"
@@ -30,7 +30,7 @@ I have a web agency and I build website for different business. You can visit my
   /> -->
 
 <!-- &nbsp; -->
-
+<!-- 
 <div class='grid'>
 <a href="https://www.web-agency.app" title="Visit my Site">
   • web-agency.app [My Site]</a>
@@ -47,7 +47,7 @@ I have a web agency and I build website for different business. You can visit my
 <a href="https://github.com/AxeloLabs" title="">
   • AxeloLabs [GitHub]</a>
 <br/>
-
+ -->
 ## 🔗 Skills
 
 <!-- axelo -->
