@@ -1,6 +1,6 @@
 # WELCOME! 👋
 
-I'm Axel. A passionate webdeveloper.
+I'm Axelo. A passionate webdeveloper.
 <br>
 I have a web agency and I build websites for different business.
 <br>
