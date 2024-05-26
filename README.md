@@ -1,4 +1,4 @@
-# Hey there! 👋
+# WELCOME! 👋
 
 I'm Axel. A passionate webdeveloper.
 
