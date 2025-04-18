@@ -2,7 +2,7 @@
 
 I'm Axelo. A passionate web developer.
 <br>
-I have a web agency and I build websites for different business.
+I own a web agency and I build websites for different business.
 <br>
 <br>
 Portfolio: <a href='https://www.web-agency.app'>www.web-agency.app</a>
