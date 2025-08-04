@@ -5,9 +5,6 @@ I'm Axelo. A passionate web developer.
 I own a web agency and I build websites for different business.
 <br>
 <br>
-Portfolio: <a href='https://www.web-agency.app'>www.web-agency.app</a>
-<br>
-<a href='https://www.web-agency.app/contact'>CONTACT ME</a>
 <!-- 
 ## 🔗 Profile
  -->
