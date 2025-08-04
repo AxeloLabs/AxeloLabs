@@ -5,6 +5,7 @@ I'm Axelo. A passionate web developer.
 I own a web agency and I build websites for different business.
 <br>
 <br>
+Feel free to reach me on LinkledIn : www.linkedin.com/in/axelr85
 <!-- 
 ## 🔗 Profile
  -->
