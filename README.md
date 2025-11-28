@@ -1,118 +1,309 @@
-# WELCOME! 👋
+<div align="center">
 
-I'm Axelo. A passionate web developer.
-<br>
-I own a web agency and I build websites for different business.
-<br>
-<br>
-Feel free to reach me on LinkledIn : www.linkedin.com/in/axelr85
-<!-- 
-## 🔗 Profile
- -->
-<!-- <img
-    width="64"
-    alt="Visit my Site"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/WebAgency.png"
-  />
-<img
-    width="64"
-    alt="Follow me on LinkedIn"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/LinkedIn.png"
-  />
-<img
-    width="64"
-    alt="Follow me on Twitter"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Twitter.png"
-  />
-<img
-    width="64"
-    alt="Follow me on YouTube"
-    src="https://github.com/nzaero/cosmos3-unix-dev-conf/blob/main/__DOC__/1-img/icon/Youtube.png"
-  /> -->
+# 👋 WELCOME! | BIENVENUE! | ¡BIENVENIDO! | BEM-VINDO!
 
-<!-- &nbsp; -->
-<!-- 
-<div class='grid'>
-<a href="https://www.web-agency.app" title="Visit my Site">
-  • web-agency.app [My Site]</a>
-  <br/>
-<a href="https://www.linkedin.com/in/regnou" title="Follow me on LinkedIn">
-  • regnou [LinkedIn]</a>
-  <br/>
-<a href="https://twitter.com/nzaerox" title="Follow me on Twitter">
-  • nzaerox [Twitter]</a>
-  <br/>
-<a href="https://www.youtube.com/@webagencyapp" title="Follow me on You Tube">
-  • @webagencyapp [YouTube]</a>
+### 🌐 [English](#-english) | [Français](#-français) | [Español](#-español) | [Português](#-português)
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=I'm+Axelo;Passionate+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelr85)
+
 </div>
-<a href="https://github.com/AxeloLabs" title="">
-  • AxeloLabs [GitHub]</a>
-<br/>
- -->
-## 🔗 Skills
 
-<!-- axelo -->
+---
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,svelte,nextjs,react,gcp,vercel,firebase,supabase,graphql,materialui,tailwind,sass,vite,git,githubactions,figma,gitlab,wordpress,jest)](https://skillicons.dev) -->
+# 🇬🇧 ENGLISH
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,bootstrap,gulp)](https://skillicons.dev) -->
+## 👨‍💻 About Me
+I'm **Axelo**, a passionate web developer. I own a web agency and build websites for different businesses.
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,react,next,aws,sass,redux,graphql,mongodb,nodejs,express)](https://skillicons.dev) -->
+## 🏗️ Tech Stack - 3-Tier Architecture
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=js,html,css,wordpress,mysql)](https://skillicons.dev) -->
+### 🎨 FRONTEND (Presentation Layer)
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,spring,maven,mysql)](https://skillicons.dev)
+| Technology | Logo | Website | Latest Stable Version |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Svelte** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/> | [svelte.dev](https://svelte.dev) | `5.45.2` |
+| **Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | [nextjs.org](https://nextjs.org) | `16.0.4` |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | [react.dev](https://react.dev) | `19.2.0` |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | [typescriptlang.org](https://www.typescriptlang.org) | `5.9.3` |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | [javascript.info](https://javascript.info) | `ES2024` |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | [w3.org/html](https://www.w3.org/html/) | `Living Standard` |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | [w3.org/Style/CSS](https://www.w3.org/Style/CSS/) | `CSS3` |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | [tailwindcss.com](https://tailwindcss.com) | `4.1.17` |
+| **Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | [getbootstrap.com](https://getbootstrap.com) | `5.3.3` |
+| **Material UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/> | [mui.com](https://mui.com) | `6.4.0` |
+| **Sass** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | [sass-lang.com](https://sass-lang.com) | `1.83.0` |
+| **Lit** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lit/lit-original.svg" width="40"/> | [lit.dev](https://lit.dev) | `3.2.1` |
 
-[![lang](https://skillicons.dev/icons?perline=10&i=java,postgresql,jenkins,ansible,nginx)](https://skillicons.dev) -->
+### ⚙️ BACKEND (Application Layer)
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,mysql)](https://skillicons.dev) -->
+| Technology | Logo | Website | Latest Stable Version |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | [nodejs.org](https://nodejs.org) | `25.2.1` / LTS `24.x` |
+| **Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | [expressjs.com](https://expressjs.com) | `5.0.1` |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | [java.com](https://www.java.com) | `23` |
+| **Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | [spring.io](https://spring.io) | `3.4.2` |
+| **GraphQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/> | [graphql.org](https://graphql.org) | `October 2021` |
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,gcp,firebase)](https://skillicons.dev) -->
+### 🗄️ DATABASE (Data Layer)
 
-<!-- ms -->
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=java,html,css,gcp,firebase)](https://skillicons.dev) -->
+| Technology | Logo | Website | Latest Stable Version |
+|:-----------|:----:|:-------:|:---------------------:|
+| **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | [postgresql.org](https://www.postgresql.org) | `17.2` |
+| **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | [mongodb.com](https://www.mongodb.com) | `8.0` |
+| **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | [sqlite.org](https://www.sqlite.org) | `3.47.2` |
+| **Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | [firebase.google.com](https://firebase.google.com) | `Cloud Service` |
+| **Supabase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/> | [supabase.com](https://supabase.com) | `Cloud Service` |
 
-<!-- [![lang](https://skillicons.dev/icons?perline=10&i=svelte,js,ts,html,css)](https://skillicons.dev) -->
+### ☁️ CLOUD & DEVOPS
 
-[![lang](https://skillicons.dev/icons?perline=10&i=svelte,nextjs,react,ts,js,html,css,java,gcp,vercel,firebase,supabase,postgres,mongodb,sqlite,nodejs,express,spring,graphql,bootstrap,md,svg,lit,materialui,tailwind,sass,docker,vite,git,jenkins,githubactions,figma,gitlab,gulp,wordpress,jest)](https://skillicons.dev)
+| Technology | Logo | Website | Latest Stable Version |
+|:-----------|:----:|:-------:|:---------------------:|
+| **GCP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | [cloud.google.com](https://cloud.google.com) | `Cloud Service` |
+| **Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/> | [vercel.com](https://vercel.com) | `Cloud Service` |
+| **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | [docker.com](https://www.docker.com) | `27.4.1` |
 
-<!--
-###### LANGUAGES
+### 🛠️ TOOLS & TESTING
 
-[![lang](https://skillicons.dev/icons?perline=10&i=ts,js,html,css,java)](https://skillicons.dev)
+| Technology | Logo | Website | Latest Stable Version |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Vite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> | [vite.dev](https://vite.dev) | `7.2.4` |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | [git-scm.com](https://git-scm.com) | `2.47.1` |
+| **GitHub Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/> | [github.com/features/actions](https://github.com/features/actions) | `Cloud Service` |
+| **Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> | [jenkins.io](https://www.jenkins.io) | `2.492` |
+| **GitLab** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> | [gitlab.com](https://gitlab.com) | `17.7` |
+| **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | [figma.com](https://www.figma.com) | `Cloud Service` |
+| **Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/> | [jestjs.io](https://jestjs.io) | `30.0.3` |
+| **Gulp** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40"/> | [gulpjs.com](https://gulpjs.com) | `5.0.0` |
+| **WordPress** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/> | [wordpress.org](https://wordpress.org) | `6.7.1` |
+| **Markdown** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/> | [markdownguide.org](https://www.markdownguide.org) | `Standard` |
+| **SVG** | <img src="https://w3.org/Icons/SVG/svg-logo-v.svg" width="40"/> | [w3.org/Graphics/SVG](https://www.w3.org/Graphics/SVG/) | `2.0` |
 
-###### CLOUD
+---
 
-[![lang](https://skillicons.dev/icons?perline=10&i=gcp,vercel)](https://skillicons.dev)
+# 🇫🇷 FRANÇAIS
 
-###### PAAS
+## 👨‍💻 À Propos de Moi
+Je suis **Axelo**, un développeur web passionné. Je possède une agence web et je crée des sites web pour différentes entreprises.
 
-[![lang](https://skillicons.dev/icons?perline=10&i=firebase,supabase)](https://skillicons.dev)
+## 🏗️ Stack Technique - Architecture 3-Tiers
 
-###### DATABASES
+### 🎨 FRONTEND (Couche Présentation)
 
-[![lang](https://skillicons.dev/icons?perline=10&i=postgres,mongodb,sqlite)](https://skillicons.dev)
+| Technologie | Logo | Site Web | Dernière Version Stable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Svelte** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/> | [svelte.dev](https://svelte.dev) | `5.45.2` |
+| **Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | [nextjs.org](https://nextjs.org) | `16.0.4` |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | [react.dev](https://react.dev) | `19.2.0` |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | [typescriptlang.org](https://www.typescriptlang.org) | `5.9.3` |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | [javascript.info](https://javascript.info) | `ES2024` |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | [w3.org/html](https://www.w3.org/html/) | `Living Standard` |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | [w3.org/Style/CSS](https://www.w3.org/Style/CSS/) | `CSS3` |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | [tailwindcss.com](https://tailwindcss.com) | `4.1.17` |
+| **Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | [getbootstrap.com](https://getbootstrap.com) | `5.3.3` |
+| **Material UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/> | [mui.com](https://mui.com) | `6.4.0` |
+| **Sass** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | [sass-lang.com](https://sass-lang.com) | `1.83.0` |
+| **Lit** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lit/lit-original.svg" width="40"/> | [lit.dev](https://lit.dev) | `3.2.1` |
 
-###### FRAMEWORKS BACKENDS
+### ⚙️ BACKEND (Couche Application)
 
-[![lang](https://skillicons.dev/icons?perline=10&i=nodejs,express,spring,graphql)](https://skillicons.dev)
+| Technologie | Logo | Site Web | Dernière Version Stable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | [nodejs.org](https://nodejs.org) | `25.2.1` / LTS `24.x` |
+| **Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | [expressjs.com](https://expressjs.com) | `5.0.1` |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | [java.com](https://www.java.com) | `23` |
+| **Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | [spring.io](https://spring.io) | `3.4.2` |
+| **GraphQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/> | [graphql.org](https://graphql.org) | `October 2021` |
 
-###### FRAMEWORKS FRONTENDS
+### 🗄️ BASE DE DONNÉES (Couche Données)
 
-[![lang](https://skillicons.dev/icons?perline=10&i=svelte,nextjs,react)](https://skillicons.dev)
+| Technologie | Logo | Site Web | Dernière Version Stable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | [postgresql.org](https://www.postgresql.org) | `17.2` |
+| **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | [mongodb.com](https://www.mongodb.com) | `8.0` |
+| **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | [sqlite.org](https://www.sqlite.org) | `3.47.2` |
+| **Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | [firebase.google.com](https://firebase.google.com) | `Service Cloud` |
+| **Supabase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/> | [supabase.com](https://supabase.com) | `Service Cloud` |
 
-###### LIBRARIES UI
+### ☁️ CLOUD & DEVOPS
 
-[![lang](https://skillicons.dev/icons?perline=10&i=bootstrap,md,svg,lit,materialui,tailwind,sass)](https://skillicons.dev)
+| Technologie | Logo | Site Web | Dernière Version Stable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **GCP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | [cloud.google.com](https://cloud.google.com) | `Service Cloud` |
+| **Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/> | [vercel.com](https://vercel.com) | `Service Cloud` |
+| **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | [docker.com](https://www.docker.com) | `27.4.1` |
 
-###### TOOL
+### 🛠️ OUTILS & TESTS
 
-[![lang](https://skillicons.dev/icons?perline=10&i=docker,vite,git,jenkins,githubactions,figma,gitlab,gulp)](https://skillicons.dev)
+| Technologie | Logo | Site Web | Dernière Version Stable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Vite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> | [vite.dev](https://vite.dev) | `7.2.4` |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | [git-scm.com](https://git-scm.com) | `2.47.1` |
+| **GitHub Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/> | [github.com/features/actions](https://github.com/features/actions) | `Service Cloud` |
+| **Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> | [jenkins.io](https://www.jenkins.io) | `2.492` |
+| **GitLab** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> | [gitlab.com](https://gitlab.com) | `17.7` |
+| **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | [figma.com](https://www.figma.com) | `Service Cloud` |
+| **Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/> | [jestjs.io](https://jestjs.io) | `30.0.3` |
+| **Gulp** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40"/> | [gulpjs.com](https://gulpjs.com) | `5.0.0` |
+| **WordPress** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/> | [wordpress.org](https://wordpress.org) | `6.7.1` |
 
-###### CMS
+---
 
-[![lang](https://skillicons.dev/icons?perline=10&i=wordpress)](https://skillicons.dev)
+# 🇪🇸 ESPAÑOL
 
-###### TESTS
+## 👨‍💻 Sobre Mí
+Soy **Axelo**, un desarrollador web apasionado. Tengo una agencia web y construyo sitios web para diferentes negocios.
 
-[![lang](https://skillicons.dev/icons?perline=10&i=jest)](https://skillicons.dev) -->
+## 🏗️ Stack Técnico - Arquitectura 3 Capas
+
+### 🎨 FRONTEND (Capa de Presentación)
+
+| Tecnología | Logo | Sitio Web | Última Versión Estable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Svelte** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/> | [svelte.dev](https://svelte.dev) | `5.45.2` |
+| **Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | [nextjs.org](https://nextjs.org) | `16.0.4` |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | [react.dev](https://react.dev) | `19.2.0` |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | [typescriptlang.org](https://www.typescriptlang.org) | `5.9.3` |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | [javascript.info](https://javascript.info) | `ES2024` |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | [w3.org/html](https://www.w3.org/html/) | `Living Standard` |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | [w3.org/Style/CSS](https://www.w3.org/Style/CSS/) | `CSS3` |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | [tailwindcss.com](https://tailwindcss.com) | `4.1.17` |
+| **Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | [getbootstrap.com](https://getbootstrap.com) | `5.3.3` |
+| **Material UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/> | [mui.com](https://mui.com) | `6.4.0` |
+| **Sass** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | [sass-lang.com](https://sass-lang.com) | `1.83.0` |
+| **Lit** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lit/lit-original.svg" width="40"/> | [lit.dev](https://lit.dev) | `3.2.1` |
+
+### ⚙️ BACKEND (Capa de Aplicación)
+
+| Tecnología | Logo | Sitio Web | Última Versión Estable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | [nodejs.org](https://nodejs.org) | `25.2.1` / LTS `24.x` |
+| **Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | [expressjs.com](https://expressjs.com) | `5.0.1` |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | [java.com](https://www.java.com) | `23` |
+| **Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | [spring.io](https://spring.io) | `3.4.2` |
+| **GraphQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/> | [graphql.org](https://graphql.org) | `October 2021` |
+
+### 🗄️ BASE DE DATOS (Capa de Datos)
+
+| Tecnología | Logo | Sitio Web | Última Versión Estable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | [postgresql.org](https://www.postgresql.org) | `17.2` |
+| **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | [mongodb.com](https://www.mongodb.com) | `8.0` |
+| **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | [sqlite.org](https://www.sqlite.org) | `3.47.2` |
+| **Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | [firebase.google.com](https://firebase.google.com) | `Servicio Cloud` |
+| **Supabase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/> | [supabase.com](https://supabase.com) | `Servicio Cloud` |
+
+### ☁️ CLOUD & DEVOPS
+
+| Tecnología | Logo | Sitio Web | Última Versión Estable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **GCP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | [cloud.google.com](https://cloud.google.com) | `Servicio Cloud` |
+| **Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/> | [vercel.com](https://vercel.com) | `Servicio Cloud` |
+| **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | [docker.com](https://www.docker.com) | `27.4.1` |
+
+### 🛠️ HERRAMIENTAS & PRUEBAS
+
+| Tecnología | Logo | Sitio Web | Última Versión Estable |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Vite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> | [vite.dev](https://vite.dev) | `7.2.4` |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | [git-scm.com](https://git-scm.com) | `2.47.1` |
+| **GitHub Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/> | [github.com/features/actions](https://github.com/features/actions) | `Servicio Cloud` |
+| **Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> | [jenkins.io](https://www.jenkins.io) | `2.492` |
+| **GitLab** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> | [gitlab.com](https://gitlab.com) | `17.7` |
+| **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | [figma.com](https://www.figma.com) | `Servicio Cloud` |
+| **Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/> | [jestjs.io](https://jestjs.io) | `30.0.3` |
+| **Gulp** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40"/> | [gulpjs.com](https://gulpjs.com) | `5.0.0` |
+| **WordPress** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/> | [wordpress.org](https://wordpress.org) | `6.7.1` |
+
+---
+
+# 🇧🇷 PORTUGUÊS
+
+## 👨‍💻 Sobre Mim
+Sou **Axelo**, um desenvolvedor web apaixonado. Tenho uma agência web e construo sites para diferentes negócios.
+
+## 🏗️ Stack Técnico - Arquitetura 3 Camadas
+
+### 🎨 FRONTEND (Camada de Apresentação)
+
+| Tecnologia | Logo | Site | Última Versão Estável |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Svelte** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/> | [svelte.dev](https://svelte.dev) | `5.45.2` |
+| **Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | [nextjs.org](https://nextjs.org) | `16.0.4` |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | [react.dev](https://react.dev) | `19.2.0` |
+| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | [typescriptlang.org](https://www.typescriptlang.org) | `5.9.3` |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | [javascript.info](https://javascript.info) | `ES2024` |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | [w3.org/html](https://www.w3.org/html/) | `Living Standard` |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | [w3.org/Style/CSS](https://www.w3.org/Style/CSS/) | `CSS3` |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | [tailwindcss.com](https://tailwindcss.com) | `4.1.17` |
+| **Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | [getbootstrap.com](https://getbootstrap.com) | `5.3.3` |
+| **Material UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/> | [mui.com](https://mui.com) | `6.4.0` |
+| **Sass** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | [sass-lang.com](https://sass-lang.com) | `1.83.0` |
+| **Lit** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lit/lit-original.svg" width="40"/> | [lit.dev](https://lit.dev) | `3.2.1` |
+
+### ⚙️ BACKEND (Camada de Aplicação)
+
+| Tecnologia | Logo | Site | Última Versão Estável |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | [nodejs.org](https://nodejs.org) | `25.2.1` / LTS `24.x` |
+| **Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | [expressjs.com](https://expressjs.com) | `5.0.1` |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | [java.com](https://www.java.com) | `23` |
+| **Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | [spring.io](https://spring.io) | `3.4.2` |
+| **GraphQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/> | [graphql.org](https://graphql.org) | `October 2021` |
+
+### 🗄️ BANCO DE DADOS (Camada de Dados)
+
+| Tecnologia | Logo | Site | Última Versão Estável |
+|:-----------|:----:|:-------:|:---------------------:|
+| **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | [postgresql.org](https://www.postgresql.org) | `17.2` |
+| **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | [mongodb.com](https://www.mongodb.com) | `8.0` |
+| **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/> | [sqlite.org](https://www.sqlite.org) | `3.47.2` |
+| **Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | [firebase.google.com](https://firebase.google.com) | `Serviço Cloud` |
+| **Supabase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/> | [supabase.com](https://supabase.com) | `Serviço Cloud` |
+
+### ☁️ CLOUD & DEVOPS
+
+| Tecnologia | Logo | Site | Última Versão Estável |
+|:-----------|:----:|:-------:|:---------------------:|
+| **GCP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | [cloud.google.com](https://cloud.google.com) | `Serviço Cloud` |
+| **Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/> | [vercel.com](https://vercel.com) | `Serviço Cloud` |
+| **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | [docker.com](https://www.docker.com) | `27.4.1` |
+
+### 🛠️ FERRAMENTAS & TESTES
+
+| Tecnologia | Logo | Site | Última Versão Estável |
+|:-----------|:----:|:-------:|:---------------------:|
+| **Vite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/> | [vite.dev](https://vite.dev) | `7.2.4` |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | [git-scm.com](https://git-scm.com) | `2.47.1` |
+| **GitHub Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/> | [github.com/features/actions](https://github.com/features/actions) | `Serviço Cloud` |
+| **Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> | [jenkins.io](https://www.jenkins.io) | `2.492` |
+| **GitLab** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> | [gitlab.com](https://gitlab.com) | `17.7` |
+| **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | [figma.com](https://www.figma.com) | `Serviço Cloud` |
+| **Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/> | [jestjs.io](https://jestjs.io) | `30.0.3` |
+| **Gulp** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40"/> | [gulpjs.com](https://gulpjs.com) | `5.0.0` |
+| **WordPress** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/> | [wordpress.org](https://wordpress.org) | `6.7.1` |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxeloLabs&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxeloLabs&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔗 Connect with me | Connectez-vous | Conéctate | Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelr85)
+
+---
+
+<sub>⚡ *Last updated: November 2025* | *Versions may vary* ⚡</sub>
+
+</div>
