@@ -18,109 +18,23 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 
 ## Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33.33%" valign="top">
-<h3>→ Front-end</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/></td><td><a href="https://svelte.dev">Svelte</a></td><td><code>5.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/></td><td><a href="https://react.dev">React</a></td><td><code>19.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/></td><td><a href="https://tailwindcss.com">Tailwind CSS</a></td><td><code>4.x</code></td></tr>
-<tr><td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="20"/></td><td><a href="https://ui.shadcn.com">shadcn/ui</a></td><td><code>latest</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Meta-Frameworks</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/></td><td><a href="https://svelte.dev/docs/kit">SvelteKit</a></td><td><code>2.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/></td><td><a href="https://nextjs.org">Next.js</a></td><td><code>15.x</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Back-end & Runtime</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/></td><td><a href="https://nodejs.org">Node.js</a></td><td><code>22.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20"/></td><td><a href="https://graphql.org">GraphQL</a></td><td><code>16.x</code></td></tr>
-<tr><td><img src="https://zod.dev/logo.svg" width="20"/></td><td><a href="https://zod.dev">Zod</a></td><td><code>3.x</code></td></tr>
-</table>
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|:---------|:-------------|
+| **Front-end Frameworks** | [![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev) [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com) |
+| **Meta-Frameworks** | [![SvelteKit](https://img.shields.io/badge/SvelteKit-2.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/docs/kit) [![Next.js](https://img.shields.io/badge/Next.js-15.x-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) |
+| **Back-end Frameworks** | [![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) |
+| **Testing** | [![Vitest](https://img.shields.io/badge/Vitest-3.x-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev) |
+| **Build Tools** | [![Turborepo](https://img.shields.io/badge/Turborepo-2.x-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build) [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![pnpm](https://img.shields.io/badge/pnpm-9.x-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io) [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org) |
 
-<table width="100%">
-<tr>
-<td width="33.33%" valign="top">
-<h3>→ Database & BaaS</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/></td><td><a href="https://www.postgresql.org">PostgreSQL</a></td><td><code>17.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/></td><td><a href="https://firebase.google.com">Firebase</a></td><td><code>cloud</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Testing</h3>
-<table>
-<tr><td width="30"><img src="https://vitest.dev/logo.svg" width="20"/></td><td><a href="https://vitest.dev">Vitest</a></td><td><code>3.x</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Build Tools</h3>
-<table>
-<tr><td width="30"><img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" width="20"/></td><td><a href="https://turbo.build">Turborepo</a></td><td><code>2.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="20"/></td><td><a href="https://vite.dev">Vite</a></td><td><code>6.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="20"/></td><td><a href="https://pnpm.io">pnpm</a></td><td><code>9.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="20"/></td><td><a href="https://eslint.org">ESLint</a></td><td><code>9.x</code></td></tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33.33%" valign="top">
-<h3>→ Cloud & DevOps</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/></td><td><a href="https://cloud.google.com">GCP</a></td><td><code>cloud</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="20"/></td><td><a href="https://vercel.com">Vercel</a></td><td><code>cloud</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/></td><td><a href="https://www.docker.com">Docker</a></td><td><code>27.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20"/></td><td><a href="https://github.com/features/actions">GitHub Actions</a></td><td><code>cloud</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Languages & Utilities</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/></td><td><a href="https://www.typescriptlang.org">TypeScript</a></td><td><code>5.x</code></td></tr>
-<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></td><td><a href="https://javascript.info">JavaScript</a></td><td><code>ES2024</code></td></tr>
-<tr><td>🔗</td><td><a href="https://github.com/lukeed/clsx">clsx</a></td><td><code>2.x</code></td></tr>
-<tr><td>🐶</td><td><a href="https://typicode.github.io/husky">Husky</a></td><td><code>9.x</code></td></tr>
-</table>
-</td>
-<td width="33.33%" valign="top">
-<h3>→ Design</h3>
-<table>
-<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/></td><td><a href="https://www.figma.com">Figma</a></td><td><code>cloud</code></td></tr>
-</table>
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|:---------|:-------------|
+| **Database & BaaS** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.x-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Firebase](https://img.shields.io/badge/Firebase-cloud-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com) |
+| **Cloud & DevOps** | [![GCP](https://img.shields.io/badge/GCP-cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com) [![Vercel](https://img.shields.io/badge/Vercel-cloud-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) [![Docker](https://img.shields.io/badge/Docker-27.x-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-cloud-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) |
+| **Languages & Utilities** | [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.info) [![GraphQL](https://img.shields.io/badge/GraphQL-16.x-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) [![Zod](https://img.shields.io/badge/Zod-3.x-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev) [![clsx](https://img.shields.io/badge/clsx-2.x-gray?style=flat-square)](https://github.com/lukeed/clsx) |
+| **Design** | [![Figma](https://img.shields.io/badge/Figma-cloud-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com) |
 
 ---
 
 <div align="center">
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxeloLabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxeloLabs&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelr85)
-
----
-
 <sub>_Last updated: February 2026_</sub>
-
 </div>
