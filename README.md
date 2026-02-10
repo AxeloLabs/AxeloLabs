@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/intro.svg" alt="I'm Axelo - Passionate Web Developer" />
+<img src="./intro.svg" alt="I'm Axelo - Passionate Web Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Building+beautiful+web+experiences;Monorepo+%26+Design+System+enthusiast;Clean+Architecture+advocate" alt="Typing SVG" />
 
