@@ -21,37 +21,28 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top">
-
-### → Front-end
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/> | [Svelte](https://svelte.dev) | `5.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> | [React](https://react.dev) | `19.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> | [Tailwind CSS](https://tailwindcss.com) | `4.x` |
-| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="20"/> | [shadcn/ui](https://ui.shadcn.com) | `latest` |
-
+<h3>→ Front-end</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/></td><td><a href="https://svelte.dev">Svelte</a></td><td><code>5.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/></td><td><a href="https://react.dev">React</a></td><td><code>19.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/></td><td><a href="https://tailwindcss.com">Tailwind CSS</a></td><td><code>4.x</code></td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="20"/></td><td><a href="https://ui.shadcn.com">shadcn/ui</a></td><td><code>latest</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Meta-Frameworks
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/> | [SvelteKit](https://svelte.dev/docs/kit) | `2.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> | [Next.js](https://nextjs.org) | `15.x` |
-
+<h3>→ Meta-Frameworks</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/></td><td><a href="https://svelte.dev/docs/kit">SvelteKit</a></td><td><code>2.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/></td><td><a href="https://nextjs.org">Next.js</a></td><td><code>15.x</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Back-end & Runtime
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> | [Node.js](https://nodejs.org) | `22.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20"/> | [GraphQL](https://graphql.org) | `16.x` |
-| <img src="https://zod.dev/logo.svg" width="20"/> | [Zod](https://zod.dev) | `3.x` |
-
+<h3>→ Back-end & Runtime</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/></td><td><a href="https://nodejs.org">Node.js</a></td><td><code>22.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20"/></td><td><a href="https://graphql.org">GraphQL</a></td><td><code>16.x</code></td></tr>
+<tr><td><img src="https://zod.dev/logo.svg" width="20"/></td><td><a href="https://zod.dev">Zod</a></td><td><code>3.x</code></td></tr>
+</table>
 </td>
 </tr>
 </table>
@@ -59,35 +50,26 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top">
-
-### → Database & BaaS
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> | [PostgreSQL](https://www.postgresql.org) | `17.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/> | [Firebase](https://firebase.google.com) | `cloud` |
-
+<h3>→ Database & BaaS</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/></td><td><a href="https://www.postgresql.org">PostgreSQL</a></td><td><code>17.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/></td><td><a href="https://firebase.google.com">Firebase</a></td><td><code>cloud</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Testing
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://vitest.dev/logo.svg" width="20"/> | [Vitest](https://vitest.dev) | `3.x` |
-
+<h3>→ Testing</h3>
+<table>
+<tr><td width="30"><img src="https://vitest.dev/logo.svg" width="20"/></td><td><a href="https://vitest.dev">Vitest</a></td><td><code>3.x</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Build Tools
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" width="20"/> | [Turborepo](https://turbo.build) | `2.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="20"/> | [Vite](https://vite.dev) | `6.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="20"/> | [pnpm](https://pnpm.io) | `9.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="20"/> | [ESLint](https://eslint.org) | `9.x` |
-
+<h3>→ Build Tools</h3>
+<table>
+<tr><td width="30"><img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" width="20"/></td><td><a href="https://turbo.build">Turborepo</a></td><td><code>2.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="20"/></td><td><a href="https://vite.dev">Vite</a></td><td><code>6.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="20"/></td><td><a href="https://pnpm.io">pnpm</a></td><td><code>9.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="20"/></td><td><a href="https://eslint.org">ESLint</a></td><td><code>9.x</code></td></tr>
+</table>
 </td>
 </tr>
 </table>
@@ -95,37 +77,28 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top">
-
-### → Cloud & DevOps
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> | [GCP](https://cloud.google.com) | `cloud` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="20"/> | [Vercel](https://vercel.com) | `cloud` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> | [Docker](https://www.docker.com) | `27.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20"/> | [GitHub Actions](https://github.com/features/actions) | `cloud` |
-
+<h3>→ Cloud & DevOps</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/></td><td><a href="https://cloud.google.com">GCP</a></td><td><code>cloud</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="20"/></td><td><a href="https://vercel.com">Vercel</a></td><td><code>cloud</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/></td><td><a href="https://www.docker.com">Docker</a></td><td><code>27.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="20"/></td><td><a href="https://github.com/features/actions">GitHub Actions</a></td><td><code>cloud</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Languages & Utilities
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> | [TypeScript](https://www.typescriptlang.org) | `5.x` |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> | [JavaScript](https://javascript.info) | `ES2024` |
-| 🔗 | [clsx](https://github.com/lukeed/clsx) | `2.x` |
-| 🐶 | [Husky](https://typicode.github.io/husky) | `9.x` |
-
+<h3>→ Languages & Utilities</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/></td><td><a href="https://www.typescriptlang.org">TypeScript</a></td><td><code>5.x</code></td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></td><td><a href="https://javascript.info">JavaScript</a></td><td><code>ES2024</code></td></tr>
+<tr><td>🔗</td><td><a href="https://github.com/lukeed/clsx">clsx</a></td><td><code>2.x</code></td></tr>
+<tr><td>🐶</td><td><a href="https://typicode.github.io/husky">Husky</a></td><td><code>9.x</code></td></tr>
+</table>
 </td>
 <td width="33.33%" valign="top">
-
-### → Design
-
-| _ | _ | _ |
-|:-:|:-----|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> | [Figma](https://www.figma.com) | `cloud` |
-
+<h3>→ Design</h3>
+<table>
+<tr><td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/></td><td><a href="https://www.figma.com">Figma</a></td><td><code>cloud</code></td></tr>
+</table>
 </td>
 </tr>
 </table>
