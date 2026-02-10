@@ -23,7 +23,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td width="200"><b>Front-end Frameworks</b></td>
 <td>
 
-[![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev) [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
+[![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev) [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 
 </td>
 </tr>
@@ -31,7 +31,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td><b>Meta-Frameworks</b></td>
 <td>
 
-[![SvelteKit](https://img.shields.io/badge/SvelteKit-2.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/docs/kit) [![Next.js](https://img.shields.io/badge/Next.js-15.x-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-2.x-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/docs/kit) [![Next.js](https://img.shields.io/badge/Next.js-15.x-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![Astro](https://img.shields.io/badge/Astro-5.x-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
 
 </td>
 </tr>
@@ -39,7 +39,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td><b>Back-end Frameworks</b></td>
 <td>
 
-[![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Hono](https://img.shields.io/badge/Hono-4.x-E36002?style=flat-square&logo=hono&logoColor=white)](https://hono.dev)
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td><b>Build Tools</b></td>
 <td>
 
-[![Turborepo](https://img.shields.io/badge/Turborepo-2.x-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build) [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![pnpm](https://img.shields.io/badge/pnpm-9.x-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io) [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org)
+[![Turborepo](https://img.shields.io/badge/Turborepo-2.x-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build) [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![pnpm](https://img.shields.io/badge/pnpm-9.x-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io) [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org) [![Storybook](https://img.shields.io/badge/Storybook-8.x-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org)
 
 </td>
 </tr>
@@ -85,6 +85,20 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.info) [![GraphQL](https://img.shields.io/badge/GraphQL-16.x-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) [![Zod](https://img.shields.io/badge/Zod-3.x-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev) [![clsx](https://img.shields.io/badge/clsx-2.x-gray?style=flat-square)](https://github.com/lukeed/clsx)
+
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<table>
+<tr>
+<td width="200"><b>CSS Frameworks</b></td>
+<td>
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
 
 </td>
 </tr>
