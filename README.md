@@ -47,7 +47,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td><b>Testing</b></td>
 <td>
 
-[![Vitest](https://img.shields.io/badge/Vitest-3.x-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev)
+[![Vitest](https://img.shields.io/badge/Vitest-3.x-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev) [![Playwright](https://img.shields.io/badge/Playwright-1.x-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev) [![Storybook](https://img.shields.io/badge/Storybook-8.x-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org)
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 <td><b>Build Tools</b></td>
 <td>
 
-[![Turborepo](https://img.shields.io/badge/Turborepo-2.x-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build) [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![pnpm](https://img.shields.io/badge/pnpm-9.x-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io) [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org) [![Storybook](https://img.shields.io/badge/Storybook-8.x-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org)
+[![Turborepo](https://img.shields.io/badge/Turborepo-2.x-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build) [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev) [![pnpm](https://img.shields.io/badge/pnpm-9.x-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io) [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org)
 
 </td>
 </tr>
@@ -81,10 +81,18 @@ I'm **Axelo**, a passionate web developer. I own a web agency and build websites
 </td>
 </tr>
 <tr>
-<td><b>Languages & Utilities</b></td>
+<td><b>Languages</b></td>
 <td>
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.info) [![GraphQL](https://img.shields.io/badge/GraphQL-16.x-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) [![Zod](https://img.shields.io/badge/Zod-3.x-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev) [![clsx](https://img.shields.io/badge/clsx-2.x-gray?style=flat-square)](https://github.com/lukeed/clsx)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.info)
+
+</td>
+</tr>
+<tr>
+<td><b>Libs</b></td>
+<td>
+
+[![Zod](https://img.shields.io/badge/Zod-3.x-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev) [![GraphQL](https://img.shields.io/badge/GraphQL-16.x-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) [![clsx](https://img.shields.io/badge/clsx-2.x-gray?style=flat-square)](https://github.com/lukeed/clsx)
 
 </td>
 </tr>
