@@ -14,6 +14,23 @@
 
 I'm **Axelo**, a passionate web developer. I own a web agency and build websites for different businesses.
 
+
+🌐 Portfolio: web-agency.app
+🌐 Github: github.com/AxeloLabs
+
+Software architect with 15 years of experience, fluent in 4 languages 🇫🇷🇪🇸🇧🇷🇬🇧.
+
+My career mirrors the evolution of modern web engineering. I started in Java backend (~6 years on enterprise systems and Spring ecosystems), then moved to TypeScript fullstack with a strong frontend specialization (~9 years) — my craft today as a senior frontend developer. Over the past 2 years, I pivoted toward AI engineering, designing and shipping production-grade LLM agents and multi-actor orchestration systems.
+
+I think in architecture and design patterns first: domain-driven design, event-driven architectures, hexagonal (ports & adapters), layered dependency constraints, and the discipline of separating logic, state, and infrastructure. Frameworks come second — they're tools, not strategy.
+
+As founder of Axelo for the past 2 years, I designed and delivered a 5-product monorepo as a solo engineer: a multi-actor architecture orchestrating browser extensions, a WebSocket gateway, and a fleet of conversational AI agents handling memory patterns, contextual retrieval, multi-channel orchestration, and Model Context Protocol (MCP) integrations.
+
+🇫🇷 French — native
+🇬🇧 English — C1 (TOEIC 850)
+🇪🇸 Spanish — bilingual
+🇧🇷 Portuguese — C1
+        
 ---
 
 ## Tech Stack
